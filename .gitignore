@@ -1,0 +1,14 @@
+# Root .gitignore
+# Node
+node_modules
+dist
+
+# Environment files
+*.env
+.env
+
+# VS Code workspace settings (local only)
+.vscode/
+
+# OS files
+.DS_Store
